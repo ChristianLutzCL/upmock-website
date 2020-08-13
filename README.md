@@ -1,3 +1,15 @@
+# ServerMonitor [![Build Status](https://travis-ci.org/ChristianLutzCL/ServerMonitor.svg?branch=master)](https://travis-ci.org/ChristianLutzCL/ServerMonitor)
+
+[UpMock](https://upmock.io) is a web application for creating stunnig 3D-Mockups right within your browser.
+
+<p align="center">
+  <img alt="UpMock Website" src="servermonitor-mockup-screely.png" height="350">
+</p>
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
