@@ -6,9 +6,6 @@ import Logo from "../img/logo.svg";
 function Main() {
   return (
     <div className="flex">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Nunito:wght@200;300;400;600;700;800;900&family=Rubik:ital,wght@0,500;0,700;1,500');
-    </style>
       <div className="px-10 xl:pl-40 xl:pt-40 xl:pb-40 xl:w-3/5 font-nunito">
         <h1 className="text-4xl text-center font-bold text-gray-200 leading-tight pb-10 md:text-left lg:text-5xl lg:w-1/2 xl:text-5xl xl:w-3/4">
           Create <a className="text-green-500">stunning</a> 3D-Mockups in seconds
