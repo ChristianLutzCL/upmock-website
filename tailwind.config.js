@@ -2,7 +2,7 @@ module.exports = {
   purge: [],
   theme: {
     fontFamily: {
-      body: ["Lato"],
+      nunito: ["Nunito", 'Sans-serif'],
     },
     extend: {},
   },

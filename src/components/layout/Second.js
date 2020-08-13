@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Second() {
   return (
     <div>
-      <div class="div bg-gray-200 p-10 pt-32 pb-32 font-nunito">
+      <div class="bg-gray-200 p-10 pt-20 pb-32 Nunito">
       <div class="text-center text-4xl font-semibold text-gray-900">
         Join the closed <b className="text-green-500 font-bold">BETA</b>
       </div>
@@ -43,7 +43,7 @@ function Second() {
             class="leading-tight bg-gray-200 border-none w-120 text-gray-200 focus:outline-none focus:bg-gray-800 active:bg-gray-800 font-bold"
             tabindex="-1"
             autocomplete="nope"
-            placeholder="Your E-Mail"
+            placeholder="your@email.com"
           />
           <div class="email-octopus-form-row-subscribe bg-transparent">
             <input type="hidden" name="successRedirectUrl" value="" />
